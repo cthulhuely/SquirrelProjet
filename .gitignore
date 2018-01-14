@@ -32,3 +32,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# C# Project
+*.csproj
+*.sln
+UpgradeLog*.htm
